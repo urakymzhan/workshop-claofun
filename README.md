@@ -3,14 +3,14 @@
 Prerequisite | 
 ------------ | 
 Install testem library. Run this command in your terminal: `npm install testem -g` |
-|
 
+---
 
 - Best to start solving from **pre-work-workshop** folder thus is the easiest one 
 - Then move on to upper folders (loops, objects, arrays etc)
 
 
-
+---
 
 ### Directions:
 
@@ -21,6 +21,8 @@ Install testem library. Run this command in your terminal: `npm install testem -
 4. Save your work to update the tests. See result in browser or in terminal.
 5. Green means passed, red means failed.
 
+
+--- 
 
 [Read more about testem here](https://github.com/testem/testem)
 
