@@ -6,7 +6,7 @@ Install testem library. Run this command in your terminal: `npm install testem -
 |
 
 
-- Best to start solving from pre-work-workshop folder thus is the easiest one 
+- Best to start solving from **pre-work-workshop** folder thus is the easiest one 
 - Then move on to upper folders (loops, objects, arrays etc)
 
 
