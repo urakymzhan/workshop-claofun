@@ -4,8 +4,9 @@
 - Run this command in your terminal: `npm install testem -g`
 
 
-Best to start solving from pre-work-workshop folder thus is the easiest one.
-Then move on to upper folders (loops, objects, arrays etc)
+Best to start solving from pre-work-workshop folder thus is the easiest one | Then move on to upper folders (loops, objects, arrays etc)
+
+
 
 
 # Directions:
