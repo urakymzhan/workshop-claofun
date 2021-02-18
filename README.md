@@ -1,10 +1,12 @@
 ## workshop-claofun
 
 > Prerequisite install testem library
+- Run this command in your terminal: `npm install testem -g`
 
-Run this command in your terminal: `npm install testem -g`
+#### Best to start solving from pre-work-workshop folder thus is the easiest one.
+#### Then move on to upper folders (loops, objects, arrays etc)
 
-# Steps:
+# Directions:
 
 1. Run testem from each directory.
 2. Copy and paste the url into a browser.
