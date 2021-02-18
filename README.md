@@ -12,7 +12,7 @@ Install testem library. Run this command in your terminal: `npm install testem -
 
 
 
-# Directions:
+### Directions:
 
 1. Run testem from each directory.
 2. Copy and paste the url into a browser.
@@ -22,4 +22,4 @@ Install testem library. Run this command in your terminal: `npm install testem -
 5. Green means passed, red means failed.
 
 
-[Read more about testem](https://github.com/testem/testem)
+[Read more about testem here](https://github.com/testem/testem)
