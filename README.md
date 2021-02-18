@@ -2,8 +2,8 @@
 
 Prerequisite | 
 ------------ | 
-install testem library |
-Run this command in your terminal: `npm install testem -g` |
+Install testem library. Run this command in your terminal: `npm install testem -g` |
+|
 
 
 - Best to start solving from pre-work-workshop folder thus is the easiest one 
