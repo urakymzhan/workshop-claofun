@@ -23,3 +23,6 @@ Install testem library. Run this command in your terminal: `npm install testem -
 
 
 [Read more about testem here](https://github.com/testem/testem)
+
+
+**Note**: Some folders might miss testem. Also feel free to work in other editors such as repl.it or in your local setup.
