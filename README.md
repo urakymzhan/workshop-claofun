@@ -6,7 +6,7 @@ Install testem library. Run this command in your terminal: `npm install testem -
 
 ---
 
-- Best to start solving from **pre-work-workshop** folder thus is the easiest one 
+- Best to start solving from **pre-work-workshops** folder thus is the easiest one 
 - Then move on to upper folders (loops, objects, arrays etc)
 
 
@@ -28,3 +28,25 @@ Install testem library. Run this command in your terminal: `npm install testem -
 
 
 **Note**: Some folders might miss testem. Also feel free to work in other editors such as repl.it or in your local setup.
+
+
+### Folder - Class Relation
+
+1. JS_Introduction: 
+    - [values and types](./pre-work-workshops/02-values-and-types)
+    - [expressions-variables-and-tdd](./pre-work-workshops/03-expressions-variables-and-tdd)
+    - [overview-and-setup](./pre-work-workshops/01-overview-and-setup)
+
+2. JS_Intrducation_Continued: 
+    - [control-flow](./pre-work-workshops/04-control-flow)
+
+3. Data Types && Functions:
+    - [functions](./pre-work-workshops/05-functions)
+    - [problem set](./pre-work-workshops/06-problem-set)
+    - [coercion-and-thruthiness](./pre-work-workshops/03-coercion-and-truthiness)
+    - [tidy-code](./pre-work-workshops/01-tidy-code)
+    - [loops](./02-loops)
+    - [arrays-i](./05-arrays-i)
+    - [arrays-ii](./06-arrays-ii)
+    - [objects](./07-objects)
+    
