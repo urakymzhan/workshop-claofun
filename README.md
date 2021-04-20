@@ -24,11 +24,6 @@ Install testem library. Run this command in your terminal: `npm install testem -
 
 --- 
 
-[Read more about testem here](https://github.com/testem/testem)
-
-
-**Note**: Some folders might miss testem. Also feel free to work in other editors such as repl.it or in your local setup.
-
 
 ### Folder - Class Relation
 
@@ -50,3 +45,10 @@ Install testem library. Run this command in your terminal: `npm install testem -
     - [arrays-ii](./06-arrays-ii)
     - [objects](./07-objects)
     
+
+---
+
+[Read more about testem here](https://github.com/testem/testem)
+
+
+**Note**: Some folders might miss testem. Also feel free to work in other editors such as repl.it or in your local setup.
